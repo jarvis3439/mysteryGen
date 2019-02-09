@@ -126,7 +126,10 @@ ul.nav-agile {
 #brand {
   padding-left: 50px;
 }
-
+.g-recaptcha {
+    transform:scale(1.0);
+    transform-origin:0 0;
+}
 #logo {
   width: 55px;
   height: 55px;
